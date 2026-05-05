@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kuldip Godase</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldipgodase07&label=Profile%20views&color=0e75b6&style=flat" alt="kuldipgodase07" /> </p>
+
+- 🌱 I’m currently learning **Data Science,Machine Learning,Artificial Intelligence,Cloud Computing,Devops**
+
+- 💬 Ask me about **AI & Cloud,Data,Python,Andriod development**
+
+- 📫 How to reach me **kuldipgodase551@gmail.com**
+
+- 📄 Know about my experiences [Resume](Resume)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kuldipgodase07&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
