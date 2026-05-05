@@ -14,20 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/kuldip-godase-b2ba40297/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@the_data_boy" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/kuldipgodase551" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/kuldipgodase551" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/kuldip-godase-b2ba40297/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
+    <td><a href="https://www.youtube.com/@the_data_boy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a></td>
+    <td><a href="https://www.hackerrank.com/kuldipgodase551" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a></td>
+    <td><a href="https://www.leetcode.com/kuldipgodase551" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a></td>
+  </tr>
+</table>
 
 ---
 
