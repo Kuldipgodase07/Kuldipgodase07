@@ -86,21 +86,17 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Data Analytics" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/IBM%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900" width="140" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900" width="140" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SC-900" width="140" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DP--700-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-700" width="140" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DP--600-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-600" width="140" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DP--100-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-100" width="140" height="28" />
 </p>
 
 <p>
