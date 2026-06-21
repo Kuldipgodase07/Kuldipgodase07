@@ -86,17 +86,12 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP%20900.png" alt="DP-900" width="140" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/AI%20900.png" alt="AI-900" width="140" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/SC-900.png" alt="SC-900" width="140" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-700.png" alt="DP-700" width="140" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-600.jpg" alt="DP-600" width="140" height="28" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-100.jpg" alt="DP-100" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP%20900.png" alt="DP-900" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/AI%20900.png" alt="AI-900" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/SC-900.png" alt="SC-900" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-700.png" alt="DP-700" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-600.jpg" alt="DP-600" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-100.jpg" alt="DP-100" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
 </p>
 
 <p>
