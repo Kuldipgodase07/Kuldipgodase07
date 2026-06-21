@@ -86,17 +86,17 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP%20900.png" alt="DP-900" width="140" height="28" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/AI%20900.png" alt="AI-900" width="140" height="28" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SC-900" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/SC-900.png" alt="SC-900" width="140" height="28" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DP--700-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-700" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-700.png" alt="DP-700" width="140" height="28" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DP--600-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-600" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-600.jpg" alt="DP-600" width="140" height="28" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DP--100-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-100" width="140" height="28" />
+  <img src="https://raw.githubusercontent.com/Kuldipgodase07/Kuldipgodase07/main/DP-100.jpg" alt="DP-100" width="140" height="28" />
 </p>
 
 <p>
