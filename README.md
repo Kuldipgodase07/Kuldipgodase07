@@ -92,6 +92,7 @@
   <img src="./DP-700.png" alt="DP-700" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
   <img src="./DP-600.png" alt="DP-600" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
   <img src="./DP-100.png" alt="DP-100" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
+  <img src="./AZ-305.png" alt="AZ-305" width="160" height="90" style="vertical-align:middle; margin-right:12px;" />
 </p>
 
 <p>
